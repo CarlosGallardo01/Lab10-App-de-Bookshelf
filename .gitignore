@@ -1,0 +1,11 @@
+# Archivos de configuración local y claves de seguridad
+local.properties
+*.jks
+*.keystore
+
+# Directorios de compilación
+/build
+*/build
+
+# Archivos temporales del sistema
+.DS_Store
